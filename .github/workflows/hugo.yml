@@ -18,7 +18,7 @@ defaults:
     shell: bash
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.148.2
@@ -50,4 +50,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages
+          publish_branch: main
+          allow_empty_commit: false
+          keep_files: false
+          force_orphan: true
