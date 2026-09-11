@@ -1,5 +1,5 @@
 # Project AI
 
-> AI-Powered Information Security
+> Разработка и внедрение искусственного интеллекта в бизнес
 
 <no value>

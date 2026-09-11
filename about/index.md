@@ -1,17 +1,18 @@
-# Hey, I am John Doe!
+# О компании Project AI
 
-> this is meta description
+> Project AI — компания, специализирующаяся на разработке и внедрении решений искусственного интеллекта в бизнес.
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Project AI — это команда инженеров, аналитиков и разработчиков, которая помогает бизнесу использовать искусственный интеллект на практике, а не в презентациях.
 
-### This is a title
+Мы начинали с внутренних ИИ-проектов и выросли в компанию полного цикла: от аудита бизнес-процессов и прототипирования до промышленной эксплуатации и сопровождения. Наша специализация — прикладной ИИ: большие языковые модели, анализ документов, компьютерное зрение, прогнозная аналитика и автоматизация принятия решений.
 
-* Lorem ipsum, dolor sit amet
-* Enim voluptatem dicta expedita veritatis
-* Fugit voluptatibus perspiciatis assumenda
-* Enim voluptatem dicta expedita
-* Corporis illum nesciunt commodi vel
+### Наши принципы
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+* **Результат измерим** — каждый проект начинается с метрик и заканчивается подтверждённым эффектом.
+* **ИИ под задачу, а не наоборот** — не впариваем модели там, где хватает простой автоматизации.
+* **Безопасность и прозрачность** — работаем в контуре заказчика, открытый код и документация.
+* **Долгосрочное партнёрство** — сопровождаем решение после запуска и развиваем его вместе с бизнесом.
+
+Мы работаем с компаниями из финансов, ритейла, логистики, производства и IT. Если вы хотите понять, где в вашем бизнесе ИИ даст максимальный эффект — напишите нам, обсудим без обязательств.
 

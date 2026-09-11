@@ -1,5 +1,5 @@
-# Contact
+# Контакты
 
-> this is meta description
+> Свяжитесь с Project AI — обсудим внедрение искусственного интеллекта в ваш бизнес.
 
-this is meta description
+Свяжитесь с Project AI — обсудим внедрение искусственного интеллекта в ваш бизнес.
