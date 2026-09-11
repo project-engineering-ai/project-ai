@@ -1,0 +1,45 @@
+# Project AI
+
+> AI-Powered Information Security
+
+## Pages
+- [Home](https://project-ai.site/index.md)
+- [Contact](https://project-ai.site/contact/index.md): this is meta description
+- [Hey, I am John Doe!](https://project-ai.site/about/index.md): this is meta description
+
+## Blog Posts
+- [Blog Posts](https://project-ai.site/blog/index.md): this is meta description
+
+- [How to build an Application with modern Technology](https://project-ai.site/blog/post-1/index.md): this is meta description
+- [How to build an Application with modern Technology](https://project-ai.site/blog/post-2/index.md): this is meta description
+- [How to build an Application with modern Technology](https://project-ai.site/blog/post-3/index.md): this is meta description
+- [How to build an Application with modern Technology](https://project-ai.site/blog/post-4/index.md): this is meta description
+
+## Authors
+- [Authors](https://project-ai.site/authors/index.md)
+
+- [John Doe](https://project-ai.site/authors/john-doe/index.md): this is meta description
+- [Sam Wilson](https://project-ai.site/authors/sam-wilson/index.md): this is meta description
+- [William Jacob](https://project-ai.site/authors/william-jacob/index.md): this is meta description
+
+## Pages
+- [Pages](https://project-ai.site/pages/index.md)
+
+- [Elements](https://project-ai.site/elements/index.md): This is meta description
+- [Privacy](https://project-ai.site/privacy-policy/index.md): This is meta description
+
+## Categories
+- [Categories](https://project-ai.site/categories/index.md)
+- [Application](https://project-ai.site/categories/application/index.md)
+- [Architecture](https://project-ai.site/categories/architecture/index.md)
+- [Data](https://project-ai.site/categories/data/index.md)
+- [Software](https://project-ai.site/categories/software/index.md)
+- [Technology](https://project-ai.site/categories/technology/index.md)
+
+## Tags
+- [Tags](https://project-ai.site/tags/index.md)
+- [Nextjs](https://project-ai.site/tags/nextjs/index.md)
+- [Silicon](https://project-ai.site/tags/silicon/index.md)
+- [Software](https://project-ai.site/tags/software/index.md)
+- [Tailwind](https://project-ai.site/tags/tailwind/index.md)
+- [Technology](https://project-ai.site/tags/technology/index.md)
